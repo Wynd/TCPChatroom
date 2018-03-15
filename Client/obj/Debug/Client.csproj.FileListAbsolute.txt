@@ -1,0 +1,23 @@
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Programming\C# Projects\Faculta\Chatroom\Client\bin\Debug\Client.exe.config
+D:\Programming\C# Projects\Faculta\Chatroom\Client\bin\Debug\Client.exe
+D:\Programming\C# Projects\Faculta\Chatroom\Client\bin\Debug\Client.pdb
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.formLogin.resources
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.exe
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.pdb
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.formChat.resources
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.formPopup.resources
+D:\Programming\C# Projects\Faculta\Chatroom\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Utilizator\Desktop\Chatroom\Client\bin\Debug\Client.exe.config
+C:\Users\Utilizator\Desktop\Chatroom\Client\bin\Debug\Client.exe
+C:\Users\Utilizator\Desktop\Chatroom\Client\bin\Debug\Client.pdb
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.formChat.resources
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.formPopup.resources
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.formLogin.resources
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.exe
+C:\Users\Utilizator\Desktop\Chatroom\Client\obj\Debug\Client.pdb
